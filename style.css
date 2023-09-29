@@ -1,0 +1,8 @@
+#container {
+	width: 300px;
+	margin: auto;
+}
+
+form, button {
+	margin-top: 20px;
+}
